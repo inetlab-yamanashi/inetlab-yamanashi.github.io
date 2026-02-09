@@ -11,6 +11,8 @@ enableRobotsTXT = true
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  mainSections = []
+  ShowPostNavLinks = false
 
 [menu]
   [[menu.main]]
