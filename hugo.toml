@@ -9,10 +9,9 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   ShowReadingTime = false
   ShowShareButtons = false
-  ShowPostNavLinks = true
+  ShowPostNavLinks = false
   ShowBreadCrumbs = true
   mainSections = []
-  ShowPostNavLinks = false
 
 [menu]
   [[menu.main]]
