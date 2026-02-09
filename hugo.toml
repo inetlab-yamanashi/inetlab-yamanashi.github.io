@@ -1,0 +1,27 @@
+baseURL = "https://inetlab-yamanashi.github.io/"
+languageCode = "ja"
+title = "InetLab@Yamanashi"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = "研究"
+    url = "/research/"
+    weight = 10
+  [[menu.main]]
+    name = "メンバー"
+    url = "/members/"
+    weight = 20
+  [[menu.main]]
+    name = "連絡先"
+    url = "/contact/"
+    weight = 30
