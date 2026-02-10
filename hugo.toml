@@ -1,9 +1,11 @@
 baseURL = "https://inetlab-yamanashi.github.io/"
 languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "InetLab@Yamanashi"
 theme = "PaperMod"
 
 enableRobotsTXT = true
+canonifyURLs = false
 
 [params]
   defaultTheme = "auto"
@@ -11,7 +13,6 @@ enableRobotsTXT = true
   ShowShareButtons = false
   ShowPostNavLinks = false
   ShowBreadCrumbs = true
-  mainSections = []
 
 [menu]
   [[menu.main]]
@@ -26,3 +27,7 @@ enableRobotsTXT = true
     name = "連絡先"
     url = "/contact/"
     weight = 30
+  [[menu.main]]
+    name = "English (auto)"
+    url = "https://translate.google.com/translate?sl=ja&tl=en&u=https%3A%2F%2Finetlab-yamanashi.github.io%2F"
+    weight = 40
