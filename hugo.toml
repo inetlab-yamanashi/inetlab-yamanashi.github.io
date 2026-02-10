@@ -12,7 +12,7 @@ canonifyURLs = false
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = false
-  ShowBreadCrumbs = true
+  ShowBreadCrumbs = false
 
 [menu]
   [[menu.main]]
@@ -20,14 +20,21 @@ canonifyURLs = false
     url = "/research/"
     weight = 10
   [[menu.main]]
-    name = "メンバー"
+    name = "メンバ"
     url = "/members/"
     weight = 20
   [[menu.main]]
-    name = "連絡先"
-    url = "/contact/"
+    name = "配属希望"
+    url = "/doc/invitation-2026.pdf"
     weight = 30
   [[menu.main]]
-    name = "English (auto)"
-    url = "https://translate.google.com/translate?sl=ja&tl=en&u=https%3A%2F%2Finetlab-yamanashi.github.io%2F"
+    name = "アクセス"
+    url = "/access/"
     weight = 40
+  [[menu.main]]
+    name = "EN (auto)"
+    url = "https://translate.google.com/translate?sl=ja&tl=en&u=https%3A%2F%2Finetlab-yamanashi.github.io%2F"
+    weight = 50
+
+[markup.goldmark.renderer]
+  unsafe = true
