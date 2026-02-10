@@ -8,5 +8,3 @@ title: "InetLab@Yamanashi"
 </style>
 
 # 準備中
-
-<small>© InetLab@Yamanashi</small>

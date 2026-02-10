@@ -19,5 +19,3 @@ title: "InetLab@Yamanashi"
 （ここに X / Bluesky / Mastodon などの埋め込み，またはお知らせのリンクを置く予定です）
 
 ---
-
-<small>© InetLab@Yamanashi</small>
