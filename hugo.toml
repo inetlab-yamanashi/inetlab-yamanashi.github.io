@@ -25,7 +25,7 @@ canonifyURLs = false
     weight = 20
   [[menu.main]]
     name = "配属希望"
-    url = "/doc/invitation-2026.pdf"
+    url = "/prospective/"
     weight = 30
   [[menu.main]]
     name = "アクセス"
