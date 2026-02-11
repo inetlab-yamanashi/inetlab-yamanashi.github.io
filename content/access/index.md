@@ -17,6 +17,9 @@ title: "アクセス"
 〒400-0016 山梨県甲府市武田4-3-11<br/>
 山梨大学 甲府東キャンパス 情報メディア館
 
+### 連絡先
+![](/img/access/mail.png)
+
 <style>
 /* Responsive Google Maps embed */
 .map-embed {

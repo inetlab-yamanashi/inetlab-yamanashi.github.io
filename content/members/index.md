@@ -8,7 +8,6 @@ title: "メンバー"
 ![inoue](/img/members/inoue.jpg)
 
 - 准教授
-- `inoue.t [at] yamanashi.ac.jp`
 - [researchmap](https://researchmap.jp/takeru_inoue)
 - [Google Scholar](https://scholar.google.co.jp/citations?user=dFfLTSAAAAAJ)
 
