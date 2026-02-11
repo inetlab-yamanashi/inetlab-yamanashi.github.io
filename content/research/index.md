@@ -8,7 +8,7 @@ title: "研究"
 
 ---
 
-### AI計算基盤：巨大なAIを支える超高速・省電力なネットワーク
+### データセンタ・ネットワーク：巨大なAIを支える計算基盤
 
 ![datacenter](/img/research/datacenter.jpg)
 
