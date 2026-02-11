@@ -5,7 +5,7 @@ title: "メンバー"
 # 教員
 ### 井上 武 (INOUE, Takeru)
 
-![inoue](/img/inoue.jpg)
+![inoue](/img/members/inoue.jpg)
 
 - 准教授
 - `inoue.t [at] yamanashi.ac.jp`
