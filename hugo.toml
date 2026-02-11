@@ -20,7 +20,7 @@ canonifyURLs = false
     url = "/research/"
     weight = 10
   [[menu.main]]
-    name = "メンバ"
+    name = "メンバー"
     url = "/members/"
     weight = 20
   [[menu.main]]
@@ -38,3 +38,7 @@ canonifyURLs = false
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
