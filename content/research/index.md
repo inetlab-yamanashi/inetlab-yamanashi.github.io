@@ -8,7 +8,7 @@ title: "研究"
 
 ---
 
-### データセンタ・ネットワーク：巨大なAIを支える計算基盤
+### データセンタ・ネットワーク：最先端のAIを支える計算基盤
 
 ![datacenter](/img/research/datacenter.jpg)
 
