@@ -1,8 +1,8 @@
 /* Light mode */
 :root[data-theme="light"] {
-  --theme: #e7e7e7; /* ページ背景 */
-  --code-bg: #e7e7e7; /* ページ背景 (posts) */
-  --entry: #fbfcfd; /* カード背景 */
+  --theme: #f7f7f7; /* ページ背景 */
+  --code-bg: #f7f7f7; /* ページ背景 (/, /posts/) */
+  --entry: #ffffff; /* カード背景 */
   /* カード背景 */
 }
 
