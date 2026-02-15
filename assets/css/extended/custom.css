@@ -1,0 +1,14 @@
+/* Light mode */
+:root[data-theme="light"] {
+  --theme: #e7e7e7; /* ページ背景 */
+  --code-bg: #e7e7e7; /* ページ背景 (posts) */
+  --entry: #fbfcfd; /* カード背景 */
+  /* カード背景 */
+}
+
+/* Dark mode */
+:root[data-theme="dark"] {
+  --theme: #1d1e20;
+  --code-bg: #1d1e20;
+  --entry: #2e2e33;
+}
