@@ -1,13 +1,17 @@
 ---
-title: "InetLab@Yamanashi"
+title: "山梨大学 井上研究室"
 ---
-<style>
-/* Hide header/menu on the maintenance home page only */
-.header { display: none; }
-.first-entry { display: none; }
-.post-entry { display: none; }
-.page-footer { display: none; }
-.main { padding-top: 1rem; }
-</style>
 
-# 準備中
+# 山梨大学 井上研究室
+
+![研究室メニュー](/img/top-banner.png)
+
+### コンピュータネットワーク分野
+
+私たちの生活に欠かせないインターネット．井上研究室では，この巨大な社会インフラを，コンピュータサイエンスの知恵（アルゴリズムやソフトウェア技術）を使って，より効率よく，より安全に進化させることを目指しています．
+
+教員の産業界での経験を活かし，セキュリティや防災，AI時代の大規模計算基盤など，幅広い「ネットワークのリアルな課題」に挑戦しています．学問としての深さと，社会を動かす実感を大切にしながら，将来のネットワークを創っていく研究室です．
+
+---
+
+### [ニュース](/posts/)

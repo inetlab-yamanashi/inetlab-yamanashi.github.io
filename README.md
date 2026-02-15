@@ -13,12 +13,10 @@
   - img/
     - [menu]/
 ```
-### ニュース（/posts）の追加
+### ニュース（/posts/）の追加
 - ファイルを追加
-```
   - content/posts/yyyy-mm-dd-*.md
   - static/img/posts/*
-```
 - コミット
 ```bash
 git commit -m "Add yyyy-mm-dd-*.md"
