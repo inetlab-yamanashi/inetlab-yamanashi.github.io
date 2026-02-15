@@ -14,13 +14,17 @@
     - [menu]/
 ```
 ### ニュース（/posts/）の追加
-- ファイルを追加
-  - content/posts/yyyy-mm-dd-*.md
-  - static/img/posts/*
-- コミット
+#### ファイルを追加
+```bash
+hugo new posts/yyyy-mm-dd-something.md
+```
+- content/posts/yyyy-mm-dd-*.md が作られる
+  - cover.images は static/img/posts/* に置く
+
+#### コミット
 ```bash
 git commit -m "Add yyyy-mm-dd-*.md"
-````
+```
 
 ### ローカルでプレビュー
 ```bash
