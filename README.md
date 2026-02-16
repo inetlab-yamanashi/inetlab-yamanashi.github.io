@@ -25,12 +25,12 @@
 ```bash
 hugo new posts/yyyy-mm-dd-something.md
 ```
-- `content/posts/yyyy-mm-dd-*.md` が作られる
-  - 画像は `static/img/posts/` に置き，front matter では `cover.image: "/img/posts/xxx.png"` のように書く
+- `content/posts/yyyy-mm-dd-something.md` が作られる
+  - 画像は `static/img/posts/` に置き，front matter では `cover.image: "/img/posts/yyyy-mm-dd-something.png"` のように書く
 
 ### コミット
 ```bash
-git commit -m "Add yyyy-mm-dd-*.md"
+git commit -m "Add /posts/yyyy-mm-dd-something"
 ```
 
 ## ローカル・プレビューで確認
@@ -39,7 +39,7 @@ git commit -m "Add yyyy-mm-dd-*.md"
 hugo server
 
 # スマホなど外部端末からアクセスする場合
-hugo server --bind 0.0.0.0
+hugo server --bind 0.0.0.0 --baseURL http://[ip_address]:1313
 ```
 
 ## GitHub Pages に反映
